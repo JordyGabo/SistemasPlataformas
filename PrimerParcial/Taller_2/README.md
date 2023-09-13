@@ -36,7 +36,7 @@ npm run build
 
 A continuación se adjuntan capturas del adapter function creado, además de la ejecución de los contenedores y un ingreso desde el frontend.
 
-![Adapter function 1](https://github.com/JordyGabo/SistemasPlataformas/blob/main/PrimerParcial/Taller_2/images/adapter_function01.png)
+![Adapter function 1](https://github.com/JordyGabo/SistemasPlataformas/blob/main/PrimerParcial/Taller_2/images/adapter_function01.png?raw=true)
 
 
 ![Adapter function 2](https://github.com/JordyGabo/SistemasPlataformas/blob/main/PrimerParcial/Taller_2/images/adapter_function02.png)
