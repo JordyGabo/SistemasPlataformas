@@ -26,16 +26,16 @@ npm install --save-dev jest
 En donde realizaron para probar los controladores de **createHab** y **getHab** utilizando
 la estructura AAA
 ## CreateHab
-![Test createHab](/Images/imageT1.png)
+![Test createHab](https://github.com/JordyGabo/SistemasPlataformas/blob/main/PrimerParcial/Taller_3/Images/imageT1.png)
 ## GetHab 
-![Test getHab](/Images/imageT2.png)
+![Test getHab](https://github.com/JordyGabo/SistemasPlataformas/blob/main/PrimerParcial/Taller_3/Images/imageT2.png)
 
 ## Prueba de los test
 ```bash
 npm test
 ```
 ## Test
-![Test](/Images/image0.png)
+![Test](https://github.com/JordyGabo/SistemasPlataformas/blob/main/PrimerParcial/Taller_3/Images/image0.png)
 **nota**: es necesario colocar "test": "jest" dentro de los scripts del package.json
 
 
@@ -67,12 +67,12 @@ En las carpetas de **backend** se realiza la configuracion del Dokerfile y se ej
     ```
 
 Como resultado tenemos:
-![TAG docker](/Images/image1.png)
+![TAG docker](https://github.com/JordyGabo/SistemasPlataformas/blob/main/PrimerParcial/Taller_3/Images/image1.png)
 
 
 # Prueba de funcionamiento de las imagenes creadas
 
-![Single Stage](/Images/image2.png)
-![Multi Stage](/Images/image2.png)
+![Single Stage](https://github.com/JordyGabo/SistemasPlataformas/blob/main/PrimerParcial/Taller_3/Images/image2.png)
+![Multi Stage](https://github.com/JordyGabo/SistemasPlataformas/blob/main/PrimerParcial/Taller_3/Images/image3.png)
 
 
